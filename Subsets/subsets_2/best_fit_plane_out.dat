@@ -1,0 +1,26 @@
+# Best fit plane equation coefficients (-z = c[0]*x + c[1]*y + c[2]): 
+1.481515e-01
+1.829516e-01
+-5.278431e+02
+# Best fit origin in camera 0 coordinates 
+5.424804e+01
+3.853436e+01
+5.127562e+02
+# Best fit point along x axis in camera 0 coordinates 
+2.355304e+01
+3.887148e+01
+5.172421e+02
+# Transform from current world coords to best fit plane origin and bases 
+# R11 R12 R13 tx R21 R22 R23 ty R31 R32 R33 tz 
+-9.894309e-01
+1.086671e-02
+1.445976e-01
+-2.088735e+01
+-1.517288e-02
+9.839554e-01
+-1.777684e-01
+5.405885e+01
+-1.442093e-01
+-1.780835e-01
+-9.733910e-01
+5.137977e+02

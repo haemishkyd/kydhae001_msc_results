@@ -1,0 +1,4 @@
+Noise Floor, Synchronised Cameras, Ring Lights
+This is a second run of the synchronised camera noise floor experiment.
+Raised the cameras and recalibrated.
+

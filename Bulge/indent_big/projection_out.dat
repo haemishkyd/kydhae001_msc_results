@@ -1,0 +1,23 @@
+# Projection parameters from point matching: 
+-5.751279e-01
+-1.006210e-02
+1.191181e+02
+-2.866782e-03
+-5.690204e-01
+1.179366e+02
+-3.310539e-05
+-1.575376e-06
+-5.536685e-01
+# Projection parameters after simplex optimization: 
+-5.751284e-01
+-1.009724e-02
+1.190592e+02
+-2.866710e-03
+-5.690182e-01
+1.179308e+02
+-3.309818e-05
+-1.568169e-06
+-5.536567e-01
+# Optimization took 8 iterations
+# Number of failed cross-correlation points: 7
+# Worst cross-correlation gamma: 3.641664e-01

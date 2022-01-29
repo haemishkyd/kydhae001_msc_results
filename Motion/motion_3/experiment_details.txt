@@ -1,0 +1,1 @@
+This test used the new lenses. It also used the new calibration methods. F# was 8. Illuminated by the magneto lamp. This run introduces a frame of reference but the other way around from the previous experiment.
